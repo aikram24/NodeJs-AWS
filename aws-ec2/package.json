@@ -1,0 +1,26 @@
+{
+  "name": "aws-ec2",
+  "version": "1.0.0",
+  "description": "Pull S3 Bucket Assoicate with your account",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Ikram",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.3.16",
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "html": "0.0.10",
+    "http": "0.0.0",
+    "jade": "^1.11.0",
+    "json-parse": "^1.0.3",
+    "marko": "^3.4.2",
+    "nodemon": "^1.9.2",
+    "object-parse": "^1.1.4",
+    "os": "^0.1.1",
+    "path": "^0.12.7"
+  }
+}
